@@ -33,15 +33,15 @@
 
 | Project | Description | Link to merged PRs |
 | :---: | :---: | :---: |
-| [Checkstyle](https://github.com/checkstyle/checkstyle) | Most of my contributions were around mutation testing (pitest), shell script updates, bug fixes, documentation updates and, unit testing. | [Merged PRs](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3AThatSneakyCoder+is%3Aclosed), [Github Discussions](https://github.com/checkstyle/checkstyle/discussions?discussions_q=author%3AThatSneakyCoder+) | 
+| [Checkstyle](https://github.com/checkstyle/checkstyle) | Most of my contributions were around mutation testing (pitest), shell script updates, bug fixes, documentation updates and, unit testing. | [Merged PRs](https://github.com/checkstyle/checkstyle/pulls?q=is%3Apr+author%3ATheSuperEngineer+is%3Aclosed), [Github Discussions](https://github.com/checkstyle/checkstyle/discussions?discussions_q=author%3ATheSuperEngineer+) | 
 
 <h1 align="center">Personal Projects</h1>
 
 | Project | Description | Tech Stack |
 | :---: | :---: | :---: |
 | Sagess | End-to-End AWS SageMaker clone from scratch | Tailwind, React, shadcn, TypeScript, Golang, Microservice, Kubernetes, Docker |
-| [RoutePulse](https://github.com/ThatSneakyCoder/RoutePulse-Fleet-Telematics-Platform) | RoutePulse is a SaaS fleet intelligence platform for small–medium logistics & delivery companies | HTML, Tailwind, React, Golang, React, JavaScript, OSRM, Microservice (gRPC), Brevo (Mailing/OTP), RabbitMQ, Kubernetes, Docker |
-| [Movie Reservation System](https://github.com/ThatSneakyCoder/Movie-Reservation-System) | A backend system for managing movies, cinemas, screens, showtimes, and bookings. Includes user authentication, RBAC, notifications, reminders, caching, and observability. | Go, OpenFGA, Redis, MailTrap, Twilio (otp/sms), Prometheus, Grafana, Docker, PostgreSQL, MongoDB | 
+| [RoutePulse](https://github.com/TheSuperEngineer/RoutePulse-Fleet-Telematics-Platform) | RoutePulse is a SaaS fleet intelligence platform for small–medium logistics & delivery companies | HTML, Tailwind, React, Golang, React, JavaScript, OSRM, Microservice (gRPC), Brevo (Mailing/OTP), RabbitMQ, Kubernetes, Docker |
+| [Movie Reservation System](https://github.com/TheSuperEngineer/Movie-Reservation-System) | A backend system for managing movies, cinemas, screens, showtimes, and bookings. Includes user authentication, RBAC, notifications, reminders, caching, and observability. | Go, OpenFGA, Redis, MailTrap, Twilio (otp/sms), Prometheus, Grafana, Docker, PostgreSQL, MongoDB | 
 
 <h1 align="center">Hackathons</h1>
 
@@ -68,7 +68,7 @@
 
 
 <!-- <a  href="https://www.linkedin.com/in/shubhtech/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-<a href="https://twitter.com/ThatSneakyCoder" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="https://twitter.com/TheSuperEng" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <!-- <a href="mailto:shubh.officemail@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>  -->
 
